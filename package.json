@@ -1,0 +1,15 @@
+{
+  "name": "aframe-sample",
+  "version": "1.0.0",
+  "description": "A-Frame Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jyuko",
+  "license": "ISC",
+  "dependencies": {
+    "aframe": "^0.3.2",
+    "aframe-extras": "^3.1.0"
+  }
+}
