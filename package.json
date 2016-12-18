@@ -6,11 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyuko/aframe-maze-sample.git"
+  },
+  "keywords": [
+    "aframe",
+    "aframevr",
+    "vr",
+    "webvr"
+  ],
   "author": "jyuko",
   "license": "ISC",
   "dependencies": {
-    "aframe": "^0.3.2",
-    "aframe-extras": "^3.1.0"
+    "aframe": "^0.3.2"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
