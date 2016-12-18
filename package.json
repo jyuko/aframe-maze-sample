@@ -1,7 +1,7 @@
 {
-  "name": "aframe-sample",
+  "name": "aframe-maze-sample",
   "version": "1.0.0",
-  "description": "A-Frame Sample",
+  "description": "A-Frame Sample VR-Maze",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
