@@ -22,19 +22,6 @@ function render() {
         camera.setAttribute('position', position);
     }
 }
-/*
- function createMaze() {
- var mazeEl = document.getElementById('maze');
- 
- for (var i = 0; i < maze.length; i++) {
- var block = document.createElement('a-box');
- //block.setAttribute('potision', {x: maze[i][0], y: 1, z: maze[i][1]});
- mazeEl.appendChild(block);
- }
- }
- */
-
-
 
 AFRAME.registerComponent('collider-check', {
     dependencies: ['raycaster'],
