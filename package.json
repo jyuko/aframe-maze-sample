@@ -22,6 +22,7 @@
     "aframe": "^0.3.2"
   },
   "devDependencies": {
+    "browser-sync": "^2.18.5",
     "browserify": "^13.1.1",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
