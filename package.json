@@ -17,7 +17,7 @@
     "webvr"
   ],
   "author": "jyuko",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "aframe": "^0.3.2"
   },
